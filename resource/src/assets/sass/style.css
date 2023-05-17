@@ -1,0 +1,65 @@
+@media (max-width: 736px) {
+  img {
+    display: none;
+  }
+}
+.mainsection {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(161, 154, 154);
+}
+
+.sectionone {
+  width: 100%;
+  height: 70vh;
+  background-color: rgb(240, 249, 194);
+}
+.sectionone .image1 {
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sectionone .image1 img {
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+.ph1 {
+  display: block;
+}
+
+.ph2 {
+  display: block;
+}
+
+.section:hover .ph1 {
+  opacity: 1;
+  transition: 1s;
+}
+.section:hover .ph2 {
+  opacity: 0;
+  transition: 1s;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.light {
+  background-color: aliceblue;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: aliceblue;
+}
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h6, .dark h5 {
+  color: antiquewhite;
+}
+.dark .card, .dark table {
+  background-color: aliceblue;
+  color: black;
+}/*# sourceMappingURL=style.css.map */

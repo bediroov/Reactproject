@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Smartwatch",
+    "price":50,
+    "number": "3 Items",
+    "alldata": "ecece",
+    "photo": "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/08/banner-1-2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Accesories",
+    "price":60,
+    "number": "2 Items",
+    "alldata" :"wexec",
+    "photo": "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/08/banner-3-1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Jewellery",
+    "price":70,
+    "number": "5 Items",
+    "alldata" :"wexec",
+    "photo": "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/08/banner-2-2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Fossil",
+    "price":80,
+    "number": "Beerig Rose Gold steel Mesh",
+    "alldata" :"wexec",
+    "photo": "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2018/05/p34-450x450.jpg"
+  },
+  {
+    "id": 5,
+    "title": "PAUL HEWITT MISS OCEAN",
+    "price":40,
+    "number": "Fossil",
+    "alldata" :"wexec",
+    "photo": "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2018/10/53-450x450.jpg"
+  },
+  {
+    "id": 6,
+    "title": "LORUS YOUTH PINK FLOWERS",
+    "price":20,
+    "number": "Fossil",
+    "alldata" :"wexec",
+    "photo": "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p11-450x450.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Jewellery",
+    "price":30,
+    "number": "Fossil",
+    "alldata" :"wexec",
+    "photo": "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p24-450x450.jpg"
+  }
+]
